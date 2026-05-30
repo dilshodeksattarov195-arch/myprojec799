@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentvecrypt",
+        "uuid": 2960295,
+        "checksum": "ay4q29"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
